@@ -36,6 +36,8 @@ Il gruppo scelga uno dei seguenti due file:
 
 - ⬜ **Marena2024**
 - ☑️ **Marazzina2024**
+  - [x] codice
+  - [ ] report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
@@ -49,6 +51,4 @@ Quindi per la correttezza del codice siamo sereni e in caso qualcuno di noi trov
 - Marazzina:
   - Mandare mail per la questione del beta
   - Controllo del codice concluso
-
-
-
+  - Chiarire il pezzo dove viene calcolato il prezzo della digitale con BSM: viene simile (0.42 BSM contro i 0.46 del CEV) però il sottostante non evolve come un processo browniano geometrico quindi non ha senso usare BSM
