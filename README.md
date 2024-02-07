@@ -19,9 +19,9 @@ Questo progetto si propone di svolgere i seguenti esercizi:
 
 Il gruppo scelga due dei seguenti tre file:
 
-⬜ **Bianchetti_Terraneo2024**
-⬜ **Pallavicini_fx_exercise23mip-2**
-⬜ **credit-tracce** 
+- ⬜ **Bianchetti_Terraneo2024**
+- ⬜ **Pallavicini_fx_exercise23mip-2**
+- ⬜ **credit-tracce**
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
