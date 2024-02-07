@@ -33,7 +33,7 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 ### Esercizio 3
 
 Il gruppo scelga uno dei seguenti due file:
-
+  
   ⬜ **Marena2024**
   ☑️ **Marazzina2024**
 
