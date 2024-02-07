@@ -19,9 +19,13 @@ Questo progetto si propone di svolgere i seguenti esercizi:
 
 Il gruppo scelga due dei seguenti tre file:
 
-- ⬜ **Bianchetti_Terraneo2024** 
+- ☑️ **Bianchetti_Terraneo2024**
+  - [ ] codice
+  - [ ] report 
 - ⬜ **Pallavicini_fx_exercise23mip-2** 
-- ⬜ **credit-tracce**
+- ☑️ **credit-tracce**
+  - [ ] codice
+  - [ ] report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
@@ -47,7 +51,7 @@ Quindi per la correttezza del codice siamo sereni e in caso qualcuno di noi trov
 
 ## Da fare prossimamente
 
-- Scegliere quali progetti fare dei due su tre
+- Chiarire se le scelte van bene per tutti
 - Marazzina:
   - Mandare mail per la questione del beta
   - Controllo del codice concluso
