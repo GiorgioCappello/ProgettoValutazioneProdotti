@@ -8,7 +8,7 @@ Per ogni esercizio, la consegna è formata da due parti:
 1) codice commentato
 2) breve relazione con procedimenti e osservazioni
 
-La data di consegna è a mezzanotte del giorno <span style="color:red;">25/02/2024</span>.
+La data di consegna è a mezzanotte del giorno **<span style="color:red;">25/02/2024</span>**.
 
 ## Scopo del Progetto
 
