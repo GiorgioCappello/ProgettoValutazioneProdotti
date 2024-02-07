@@ -34,7 +34,7 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 Il gruppo scelga uno dei seguenti due file:
   
-⬜ **Marena2024**
+⬜ **Marena2024** \n
 ☑️ **Marazzina2024**
 
 e ne svolga il contenuto in relazione al numero del gruppo.
