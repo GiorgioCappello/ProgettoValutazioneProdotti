@@ -45,7 +45,7 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 - Scegliere quali progetti fare dei due su tre
 - Marazzina:
   - Mandare mail per la questione del beta
-  - Debug codice (la struttura è pronta ma c'è qualcosa di sbagliato)
+  - Controllo del codice concluso
 
 
 
