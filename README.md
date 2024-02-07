@@ -1,6 +1,6 @@
 # Progetto Valutazione Prodotti - Gruppo 1
 
-Benvenuti nel repository del Gruppo 1 dedicato al progetto di valutazione dei prodotti!
+✨Benvenuti nel repository del Gruppo 1 dedicato al progetto di valutazione dei prodotti!✨
 
 ## Consegna
 
@@ -8,7 +8,8 @@ Per ogni esercizio, la consegna è formata da due parti:
 1) codice commentato
 2) breve relazione con procedimenti e osservazioni
 
-La data di consegna è a mezzanotte del giorno 25/02/2024.
+> [!CAUTION]
+> La data di consegna è a mezzanotte del giorno 25/02/2024.
 
 ## Scopo del Progetto
 
@@ -32,8 +33,9 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 ### Esercizio 3
 
 Il gruppo scelga uno dei seguenti due file:
-- [ ] **Marena2024**
-- [x] **Marazzina2024**
+
+  ⬜ **Marena2024**
+  ☑️ **Marazzina2024**
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
