@@ -24,6 +24,11 @@ Il gruppo scelga due dei seguenti tre file:
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
+> [!NOTE]
+> Per il file Bianchetti_Terraneo2024, il gruppo i, se sceglierà tale file, dovrà svolgere solo il problema i.
+> Idem per il contenuto di credit-tracce.zip, dove dovrà considerare solo la traccia i.
+> Per il file Pallavicini_fx_exercise23mip-2 il dataset cambia per ogni gruppo (vedi file excel Pallavicini_20180130_MarketData)
+
 ### Esercizio 3
 
 Il gruppo scelga uno dei seguenti due file:
@@ -36,7 +41,7 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 ## Da fare prossimamente
 
 - Scegliere quali progetti fare dei due su tre
-- Marazzina
+- Marazzina:
   - Mandare mail per la questione del beta
   - Debug codice (la struttura è pronta ma c'è qualcosa di sbagliato)
 
