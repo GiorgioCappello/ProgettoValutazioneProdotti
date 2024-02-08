@@ -31,8 +31,8 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 > [!NOTE]
 > Per il file Bianchetti_Terraneo2024, il gruppo i, se sceglierà tale file, dovrà svolgere solo il problema i.
-Idem per il contenuto di credit-tracce.zip, dove dovrà considerare solo la traccia i.
-Per il file Pallavicini_fx_exercise23mip-2 il dataset cambia per ogni gruppo (vedi file excel Pallavicini_20180130_MarketData)
+> Idem per il contenuto di credit-tracce.zip, dove dovrà considerare solo la traccia i.
+> Per il file Pallavicini_fx_exercise23mip-2 il dataset cambia per ogni gruppo (vedi file excel Pallavicini_20180130_MarketData)
 
 ### Esercizio 3
 
