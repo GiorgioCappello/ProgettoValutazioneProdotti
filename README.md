@@ -20,12 +20,12 @@ Questo progetto si propone di svolgere i seguenti esercizi:
 Il gruppo scelga due dei seguenti tre file:
 
 - ☑️ **Bianchetti_Terraneo2024**
-  - [ ] codice
-  - [ ] report 
+  - ◻️ codice
+  - ◻️ report 
 - ⬜ **Pallavicini_fx_exercise23mip-2** 
 - ☑️ **credit-tracce**
-  - [ ] codice
-  - [ ] report
+  - ◻️ codice
+  - ◻️ report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
@@ -40,8 +40,8 @@ Il gruppo scelga uno dei seguenti due file:
 
 - ⬜ **Marena2024**
 - ☑️ **Marazzina2024**
-  - [x] codice
-  - [ ] report
+  - ✔️ codice
+  - ⬜ report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
