@@ -56,5 +56,4 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 - Recuperare lezioni Bianchetti (Martin) e Credito (Abner e Riccardo)
 - Marazzina:
-  - Mandare mail per la questione del beta
   - Fare il report
