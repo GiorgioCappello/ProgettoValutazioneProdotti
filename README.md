@@ -48,9 +48,9 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 > [!NOTE]
 > Report:
 > - Questione prezzo al variare di beta:
-    - per beta=1, il prezzo è analogo a quello calcolato con la formula chiusa di BSM
-    - per beta<1, il prezzo aumenta perchè meno rischioso
-    - per beta>1, il prezzo diminuisce perchè più rischioso
+>   - per beta=1, il prezzo è analogo a quello calcolato con la formula chiusa di BSM
+>   - per beta<1, il prezzo aumenta perchè meno rischioso
+>   - per beta>1, il prezzo diminuisce perchè più rischioso
 
 ## Da fare prossimamente
 
