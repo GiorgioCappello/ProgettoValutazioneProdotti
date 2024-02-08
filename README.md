@@ -46,13 +46,15 @@ Il gruppo scelga uno dei seguenti due file:
 e ne svolga il contenuto in relazione al numero del gruppo.
 
 > [!NOTE]
-> Il progetto è stato fatto assieme a Marco Pace che, siccome fa parte del gruppo 5 e aveva esattamente il nostro stesso quesito, ha deciso di collaborare assieme a me. 
-Quindi per la correttezza del codice siamo sereni e in caso qualcuno di noi trova qualche errore ci teniamo aggiornati.
+> Report:
+> - Questione prezzo al variare di beta:
+    - per beta=1, il prezzo è analogo a quello calcolato con la formula chiusa di BSM
+    - per beta<1, il prezzo aumenta perchè meno rischioso
+    - per beta>1, il prezzo diminuisce perchè più rischioso
 
 ## Da fare prossimamente
 
-- Chiarire se le scelte van bene per tutti
+- Recuperare lezioni Bianchetti (Martin) e Credito (Abner e Riccardo)
 - Marazzina:
   - Mandare mail per la questione del beta
-  - Controllo del codice concluso
-  - Chiarire il pezzo dove viene calcolato il prezzo della digitale con BSM: viene simile (0.42 BSM contro i 0.46 del CEV) però il sottostante non evolve come un processo browniano geometrico quindi non ha senso usare BSM
+  - Fare il report
