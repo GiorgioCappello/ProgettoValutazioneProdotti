@@ -41,7 +41,7 @@ Il gruppo scelga uno dei seguenti due file:
 - ⬜ **Marena2024**
 - ☑️ **Marazzina2024**
   - ✔️ codice
-  - ⬜ report
+  - ◻️  report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
