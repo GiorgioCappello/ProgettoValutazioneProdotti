@@ -56,4 +56,5 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 - Recuperare lezioni Bianchetti (Martin) e Credito (Abner e Riccardo)
 - Marazzina:
+  - Rivedere convergenza metodo numerico
   - Fare il report
