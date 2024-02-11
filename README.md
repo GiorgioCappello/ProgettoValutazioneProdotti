@@ -24,8 +24,12 @@ Il gruppo scelga due dei seguenti tre file:
   - ◻️ report 
 - ⬜ **Pallavicini_fx_exercise23mip-2** 
 - ☑️ **credit-tracce**
-  - ◻️ codice
-  - ◻️ report
+  - Parte I:
+    - ✔️ codice
+    - ◻️ report
+  - Parte II:
+    - ◻️ codice
+    - ◻️ report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
