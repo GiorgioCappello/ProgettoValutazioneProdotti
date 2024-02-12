@@ -58,7 +58,11 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 ## Da fare prossimamente
 
-- Recuperare lezioni Bianchetti (Martin) e Credito (Abner e Riccardo)
+- Bianchetti e Terraneo:
+  - Recuperare lezioni (Martin)
+- Credito:
+  - Revisionare parte I e iniziare il report
+  - Iniziare parte II
 - Marazzina:
   - Rivedere convergenza metodo numerico
   - Fare il report
