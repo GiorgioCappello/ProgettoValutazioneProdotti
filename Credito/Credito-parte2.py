@@ -29,10 +29,10 @@ CVA = - lgd*mt.exp(-r*T)*integrate.quad(integranda, t, T)[0]
 
 print ("Prezzo CVA:", CVA)
 
-## Parte 2
-
+## Punto B
 N = 100000
-K = 1000
+K = 100                 # numero di raggruppamenti
+
 
 # Simulazione dei tempi di fallimento
 U = np.random.uniform(0,1,N)
@@ -52,16 +52,16 @@ counts, _ = np.histogram(tau, bins=K)
 prob = counts / N
 
 # Funzione per simulazione del sottostante
-def sottostante(X0, sigma, t, z):
-    return X0 + sigma*mt.sqrt(t)*z
+def sottostante(X0, sigma, dt, steps, N):
+    return X0 + np.cumsum(sigma * np.sqrt(dt) * np.random.normal(size=(steps, N)), axis=0)
 
-# Prezzo sottostante
+# Discretizzazione integrale
+dt = T/N
 I = []
+
 for i in range(1,N):
-    z = np.random.normal()
-    t = (tau[i-1] + tau[i])/2
-    X = sottostante(X0, sigma, t, z)
-    I.append(prezzo_bc(X, K, sigma, t)*np.exp(-r*t))
+    X = sottostante(X0, sigma, dt, 24, N)
+    I.append(prezzo_bc(X, K, sigma, dt)*np.exp(-r*dt)*probab)  
 
 
 '''
