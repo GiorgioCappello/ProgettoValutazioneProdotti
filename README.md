@@ -26,9 +26,9 @@ Il gruppo scelga due dei seguenti tre file:
 - ☑️ **credit-tracce**
   - Parte I:
     - ✔️ codice
-    - ◻️ report
+    - ✔️ report
   - Parte II:
-    - ◻️ codice
+    - ✔️ codice
     - ◻️ report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
@@ -51,11 +51,10 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 ## Da fare prossimamente
 
-- Bianchetti e Terraneo:
+- Bianchetti:
   - Codice e report
 
 - Credito:
-  - Report parte I
   - Revisione e report parte II 
 
 - Marazzina ✔️
