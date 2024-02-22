@@ -9,7 +9,7 @@ Per ogni esercizio, la consegna è formata da due parti:
 2) breve relazione con procedimenti e osservazioni
 
 > [!CAUTION]
-> La data di consegna è a mezzanotte del giorno 25/02/2024.
+> La data di consegna è a mezzanotte del giorno 02/03/2024.
 
 ## Scopo del Progetto
 
