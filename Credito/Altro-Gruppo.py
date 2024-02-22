@@ -27,14 +27,14 @@ F0=S0
 bachelierIntegrand = lambda T: ((F0 - K) * norm.cdf((F0 - K) / (sigma * mt.sqrt(T))) + 
                         sigma * mt.sqrt(T) * norm.pdf((F0 - K) / (sigma * mt.sqrt(T)))) * lambda_ * mt.exp(-lambda_ * T)
 
-result = sc.quad(bachelierIntegrand, 0, 2)
+result = sc.quad(bachelierIntegrand, 0, 3)
 cva = -lgd* result[0]
 
 #Similar Montecarlo simulations
 
 
 num_sim=100000
-x=np.random.uniform(0,2,size=num_sim)
+x=np.random.uniform(size=num_sim)
 inverse_exp = lambda x, lambda_: -lambda_ * np.log(1 - x)
 default_times = inverse_exp(np.random.uniform(size=num_sim), lambda_=1/lambda_)
 
