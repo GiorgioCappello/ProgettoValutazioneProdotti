@@ -29,7 +29,7 @@ Il gruppo scelga due dei seguenti tre file:
     - ✔️ report
   - Parte II:
     - ✔️ codice
-    - ◻️ report
+    - ✔️ report
 
 e ne svolga il contenuto in relazione al numero del gruppo.
 
@@ -54,7 +54,6 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 - Bianchetti:
   - Codice e report
 
-- Credito:
-  - Revisione e report parte II 
+- Credito ✔️
 
 - Marazzina ✔️
