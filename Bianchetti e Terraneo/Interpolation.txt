@@ -1,0 +1,49 @@
+Function LinInterpolate(xVal As Double, _
+                        xRange As Variant, _
+                        yRange As Variant, _
+                        Optional isSorted As Long = 1) As Double
+    Dim yVal As Double
+    Dim xBelow As Double, xAbove As Double
+    Dim yBelow As Double, yAbove As Double
+    Dim testVal As Double
+    Dim High As Long, Med As Long, Low As Long
+
+    Low = 1
+    High = xRange.Cells.Count
+
+    If isSorted <> 0 Then
+        ' Ricerca binaria nell'intervallo ordinato
+        Do
+            Med = Int((Low + High) \ 2)
+            If (xRange.Cells(Med).Value) < (xVal) Then
+                Low = Med
+            Else
+                High = Med
+            End If
+        Loop Until Abs(High - Low) <= 1
+    Else
+        ' Ricerca lineare su ogni voce
+        xBelow = -1E+205
+        xAbove = 1E+205
+        
+        For Med = 1 To xRange.Cells.Count
+            testVal = xRange.Cells(Med)
+            If testVal < xVal Then
+                If Abs(xVal - testVal) < Abs(xVal - xBelow) Then
+                    Low = Med
+                    xBelow = testVal
+                End If
+            Else
+                If Abs(xVal - testVal) < Abs(xVal - xAbove) Then
+                    High = Med
+                    xAbove = testVal
+                End If
+            End If
+        Next Med
+    End If
+
+    xBelow = xRange.Cells(Low): xAbove = xRange.Cells(High)
+    yBelow = yRange.Cells(Low): yAbove = yRange.Cells(High)
+
+    LinInterpolate = yBelow + (xVal - xBelow) * (yAbove - yBelow) / (xAbove - xBelow)
+End Function
