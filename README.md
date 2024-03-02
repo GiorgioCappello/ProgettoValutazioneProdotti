@@ -51,8 +51,7 @@ e ne svolga il contenuto in relazione al numero del gruppo.
 
 ## Da fare prossimamente
 
-- Bianchetti:
-  - Codice e report
+- Bianchetti ✔️
 
 - Credito ✔️
 
